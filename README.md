@@ -1,4 +1,4 @@
-# Analise de Clientes de Cartão de Crédito
+# Análise de Clientes de Cartão de Crédito
 
 Esse projeto visa estudar clientes de um determinado banco e classificar em diversos perfis utilizando técnicas de clusterização.
 
